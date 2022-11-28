@@ -10,7 +10,7 @@ public class TestBjsSite {
 	
 	@Test
 	public void openBjsSite() {
-			System.setProperty("webdriver.chrome.driver","C:\\Automation_Eclipse_WS\\TestProject\\BrowserDrivers\\chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver","C:\\Users\\sijo.thomas\\bamboo-home\\local-working-dir\\MTA-SAM-JOB1\\BrowserDrivers\\chromedriver.exe");
 			WebDriver driver = new  ChromeDriver();
 		
 			System.out.println("------------------------------------------------------------------------------------------");
